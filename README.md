@@ -1,2 +1,3 @@
 # blackhole-3d-sim
-A highly accurate simulation of a black hole using a self-gravitating N-body disc simulation with tidal disruption, a dimensional accretion disc, and a Kerr geodesic ray tracer with gravitational lensing
+
+Real-time Kerr black hole ray tracer with gravitational lensing, a volumetric turbulent accretion disk, and a lensed starfield — run with `python kerr_blackhole.py` (Python 3.10–3.12, `pip install taichi numpy`).
